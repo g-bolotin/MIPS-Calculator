@@ -1,5 +1,5 @@
 # MIPS-Calculator
-Implementation of basic mathematical operations using MIPS assembly.
+Implementation of basic mathematical operations using MIPS assembly. Run with MARS simulator.
 
 [IEEE Report PDF](https://drive.google.com/file/d/1YVPRF-PTnseIqisx923rJA_14-VS4pff/view?usp=sharing)
 
